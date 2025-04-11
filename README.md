@@ -23,7 +23,7 @@ Banks lose significant revenue when valuable customers churn. This model helps:
 - `bank_churn_sql_analysis.sql` – SQL queries for churn analysis  
 - `bank_churn_modeling.py` – Python code for preprocessing, modeling, evaluation  
 - `README.md` – Project summary and instructions  
-- `requirements.txt` – Required Python packages (optional but recommended)  
+- `Bank_Churn.csv` - Dataset file in csv
 
 ## Final Model Metrics (XGBoost)
 - Accuracy: **87.13%**
